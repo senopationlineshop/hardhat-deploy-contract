@@ -1,3 +1,3 @@
-const deployedAddress = ''
+const deployedAddress = 'result'
 
 export default deployedAddress
